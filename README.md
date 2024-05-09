@@ -1,16 +1,23 @@
-### Hi there 👋
+### Greetings! U+1F47D
 
-<!--
-**Crescendoe/Crescendoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is William. (Crescendoe)
 
-Here are some ideas to get you started:
+Aspiring software developer with a focus on .NET, React, and React Native. Seeking hands-on projects to solidify my skills and contribute to real-world development. I'm a quick learner, a team player, and I'm always looking for opportunities to challenge myself. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Key Skills:
+
+- JavaScript
+- HTML
+- CSS
+- .Net Framework
+- MySQL
+
+Looking for:
+
+- Internship opportunities
+- Open-source project contributions
+- Networking with other devs
+
+I'm excited to connect and learn from others in the OKC tech community! 💡
+
+Feel free to reach out and connect with me. 🤝
