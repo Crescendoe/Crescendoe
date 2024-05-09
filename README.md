@@ -2,9 +2,11 @@
 
 My name is William. (Crescendoe)
 
-Aspiring software developer with a focus on .NET, React, and React Native. Seeking hands-on projects to solidify my skills and contribute to real-world development. I'm a quick learner, a team player, and I'm always looking for opportunities to challenge myself. 🚀
+I'm William, a passionate developer with a focus on .NET, React, and React Native. I'm eager to contribute to real-world projects and solidify my skills through hands-on experience. I'm a quick learner, a team player, and I thrive on challenges. 🚀
 
-Current Key Skills:
+I'm excited to connect and learn from others in the OKC tech community! 💡
+
+## Key Skills:
 
 - JavaScript
 - HTML
@@ -12,12 +14,10 @@ Current Key Skills:
 - .Net Framework
 - MySQL
 
-Looking for:
+## Looking for:
 
 - Internship opportunities
 - Open-source project contributions
 - Networking with other devs
-
-I'm excited to connect and learn from others in the OKC tech community! 💡
 
 Feel free to reach out and connect with me. 🤝
