@@ -1,4 +1,4 @@
-### Greetings! U+1F47D
+### Greetings! 👽
 
 My name is William. (Crescendoe)
 
