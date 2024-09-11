@@ -11,6 +11,8 @@ I'm excited to connect and learn from others in the OKC tech community!
 - JavaScript
 - HTML
 - CSS
+- React
+- Flutter
 - .Net Framework
 - MySQL
 
