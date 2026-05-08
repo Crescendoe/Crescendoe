@@ -1,4 +1,4 @@
-# Hi, I'm William 👋
+# Hi, I'm William.
 
 **Full-Stack Software Engineer** based in Oklahoma City, OK.
 
