@@ -53,4 +53,4 @@ Cross-platform mobile app for tracking daily water intake, streaks, and challeng
 
 ## 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/william-wyler-46b7012b7) · [Email](mailto:crescendoedd@gmail.com) · [dialedcoffee.app](https://dialedcoffee.app)
+[LinkedIn](https://linkedin.com/in/william-wyler-46b7012b7) · [Email](mailto:crescendoedd@gmail.com) · [www.dialedcoffee.app](https://dialedcoffee.app)
